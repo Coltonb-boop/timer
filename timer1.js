@@ -16,6 +16,3 @@ const timer = (args) => {
 
 
 timer(input);
-
-// beep sound: console.log("\007");
-// node timer1.js 10 3 5 15 9 
